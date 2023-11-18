@@ -113,7 +113,7 @@
 
     <EditText
         android:id="@+id/edit_text_username"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="16sp"
         android:maxLength="20"
         android:inputType="textPersonName"
@@ -128,7 +128,7 @@
 
     <EditText
         android:id="@+id/edit_text_email"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="16sp"
         android:maxLength="20"
         android:inputType="textEmailAddress"
@@ -143,7 +143,7 @@
 
     <EditText
         android:id="@+id/edit_text_password"
-        android:textColor="@color/black"
+        android:textColor="@color/white"
         android:textSize="16sp"
         android:maxLength="20"
         android:inputType="textVisiblePassword"
